@@ -1,0 +1,16 @@
+spring:
+  servlet:
+    multipart:
+      # 单文件最大
+      max-file-size: 1000MB
+      # 单次请求最大
+      max-request-size: 1000MB
+  datasource:
+    # JDBC 配置
+    url: jdbc:mysql://43.139.91.16:3306/hollow?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false
+    username: root
+    password: 43997k7k
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

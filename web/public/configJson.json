@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Appeal",
+    "arrayData": [
+      {
+        "title": "Appeal - Core Belief",
+        "remark": "Demonstrate that your work aligns with a donor's core beliefs and they will see you as an ally that deserves support. Write an appeal around a core belief that your supporters would share.",
+        "sampleOutPut": "Dear [Donor],\n\nAs we reflect on the past year, we are reminded of the challenges that many young immigrants and disadvantaged international students face when trying to succeed in their academic and career pursuits. However, we are also reminded of the potential and aspirations these individuals possess, and the impact that your support can make on their lives.\n\n[SUBHEADING] 'You Have The Power To Uplift Lives'\n\nAt Uplift Youth Institute, we believe that each and every individual has unique strengths and talents that should be valued, regardless of their background. We provide personalized and long-term support to those in need, facilitating successful integration into local communities, and helping students and immigrants achieve success.\n\n[SUBHEADING] 'Your Support is Critical to Our Success'\n\nOur organization has served over 500 students and young immigrants, but there is still so much more work to be done. That's why we need your help. Your donation can help us continue to provide academic support, career training, relocation solutions, legal and mental health support to those in need.\n\n[SUBHEADING] 'Together, We Can Empower The Next Generation'\n\nWe know that it takes a village to create a brighter future for all. That's why we are asking for your support. By making a donation today, you are investing in the potential and aspirations of future generations, and helping us to continue our mission of empowering disadvantaged international students and young immigrants in academics, career, and beyond.\n\n[SUBHEADING] 'Your Donation Makes a Difference'\n\nWe measure our success through the number of students and immigrants served, the number of successful integrations into local communities, and the number of successful career training outcomes. Your donation can help us achieve these outcomes and make a real difference in the lives of those we serve.\n\nThank you for your consideration and for your commitment to creating a more just world.\n\nSincerely,\nKanaov Marla (Councilor, District 2)\nCevin Peter (City Council President)\nCarleno Emo (City Auditor)\nDonald Trump (Tax Collector)",
+        "inputList": [
+          {
+            "remark": "Organization",
+            "value": ""
+          },
+          {
+            "remark": "Mission",
+            "value": ""
+          },
+          {
+            "remark": "Relevant program/activities",
+            "value": ""
+          },
+          {
+            "remark": "Core Belief (e.g., A wish experience can be a game-changer for a child with a critical illness., or, every animal and pet has a right to love and be loved)",
+            "value": ""
+          },
+          {
+            "remark": "Ask: What do you want the reader to do? (e.g., upgrade their monthly giving and join the Shooting Star Society at $100/month)",
+            "value": ""
+          },
+          {
+            "remark": "Letter signer (include name and relationship to the organization)",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "December 31st Email",
+        "remark": "Short and direct. This is your final call to action for donors before the end of the year. Use countdowns and progress bars alongside incentives like challenges or matching gifts.",
+        "sampleOutPut": "Last Chance to Empower Disadvantaged International Students and Young Immigrants\n\n[INSERT GRAPHIC LAST CHANCE]\n\nDear [First Name],\n\nThis is it - today is the final day of 2019. As we look back on the year, we are filled with gratitude for your continued support of Uplift Youth Institute and our mission to empower disadvantaged international students and young immigrants in academics, career and beyond.\n\nBut before the clock strikes midnight, we need your help to make a significant impact on the lives of those we serve.\n\nYour tax-deductible gift today will directly support our efforts in providing personalized and long-term academic support, career training, relocation solutions, legal & mental health support to those in need.\n\nAnd as a special incentive, every dollar you donate today will be matched by a generous donor - doubling the impact of your gift!\n\nTogether, we can create a brighter future for international students and young immigrants who face unique challenges and barriers to success. Your support is crucial in helping us achieve our mission.\n\nPlease make your generous donation before midnight tonight to ensure that we can continue providing essential resources and support to those who need it most.\n\nThank you for standing with us in this important work.\n\nWarmest wishes for a happy and healthy new year,\n\n[Signer's Name]\nUplift Youth Institute",
+        "inputList": [
+          {
+            "remark": "Organization",
+            "value": ""
+          },
+          {
+            "remark": "Mission",
+            "value": ""
+          },
+          {
+            "remark": "The work your organization does",
+            "value": ""
+          },
+          {
+            "remark": "Core Belief and/or Key Statistics referenced in earlier appeals",
+            "value": ""
+          },
+          {
+            "remark": "Special Incentives or Offers (e.g. a 2:1 matching challenge, or a tote bag)",
+            "value": ""
+          },
+          {
+            "remark": "Signer. Who is sending the email?",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Appeal - Human Impact",
+        "remark": "Draft an appeal that features a personal impact story. This model was primarily trained on education oriented appeals, but will work for any organization.",
+        "sampleOutPut": "Dear [Donor],\n\nI am writing to you on behalf of {Organization Name}, an organization dedicated to {Work}. Our organization has served over 500 students and immigrants, offering personalized and long-term support to those in need.\n\nWe understand that the journey towards success can be challenging, especially for those who come from disadvantaged backgrounds. That’s why we offer a range of services to help our clients achieve success, including academic support, career training, and relocation solutions.\n\nOne of our success stories is that of {Person Name}, {Story}\n\nOur primary measurable outcomes include the number of students and immigrants served, the number of successful integrations into local communities, and the number of successful career training outcomes. These outcomes are measured through surveys and interviews with our clients, and we are proud to report that we have achieved significant success in all three areas.\n\nWe believe that every student and immigrant deserves the opportunity to achieve their dreams, regardless of their background or circumstances. That’s why we are asking for your support today.\n\nYour donation will help us continue to provide critical services to students and immigrants in need. It will enable us to offer academic support, career training, and relocation solutions to those who need it most. It will help us facilitate successful integration into local communities, and it will help our clients achieve success.\n\nWe understand that times are tough, and that there are many worthy causes vying for your attention. But we truly believe that {Organization Name} is a cause worth supporting. We have a proven track record of success, and we are committed to making a real difference in the lives of our clients.\n\nSo please, consider making a donation today. Your gift will make a real difference in the lives of students and immigrants in need.\n\nThank you for your consideration.\n\nSincerely,\n\n[Your Name]\n\nP.S. If you have any questions about our organization or our work, please don’t hesitate to contact us. We would be happy to answer any questions you may have.",
+        "inputList": [
+          {
+            "remark": "Organization Name",
+            "value": ""
+          },
+          {
+            "remark": "Work",
+            "value": ""
+          },
+          {
+            "remark": "Person Name",
+            "value": ""
+          },
+          {
+            "remark": "Story",
+            "value": ""
+          },
+          {
+            "remark": "Ask",
+            "value": ""
+          },
+          {
+            "remark": "Stat",
+            "value": ""
+          },
+          {
+            "remark": "Signer",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Segment - Lapsed Donors",
+        "remark": "Redraft a general appeal to remind and thank lapsed donors for their past gifts, while encouraging them to give again.",
+        "sampleOutPut": "Dear [Donor],\n\nWe hope this message finds you well. As a past supporter of Uplift Youth Institute, we wanted to reach out and express our gratitude for your previous contribution towards empowering disadvantaged international students and young immigrants in academics, career, and beyond.\n\nAt Uplift Youth Institute, our mission is to provide personalized support to those in need through academic assistance, relocation solutions, legal aid services as well as mental health support. Your past donation helped us serve over 500 individuals who were struggling with challenges when trying to succeed in their academic pursuits or careers.\n\n[SUBHEADING] 'Your Continued Support Can Make A Difference'\n\nAs we look ahead into the future while reflecting on what has been achieved thus far together; there is still much work left undone. We are committed more than ever before not just because of how important it all seems but also due largely thanks solely upon donors like yourself who have given generously despite everything else happening around them at any given moment which speaks volumes about one's character!\n\nSo now once again -we ask- will you consider supporting our organization? You can help us continue providing essential resources that empower young people from diverse backgrounds by making an investment today!\n\n[SUBHEADING] 'Together We Can Achieve Our Goals'\n\nWe believe that each and every individual has unique strengths and talents, regardless of their background. By working together, we can uplift the lives of those in need and create a brighter future for all.\n\n[SUBHEADING] 'How Your Donation Can Help Empower Disadvantaged International Students And Young Immigrants'\n\nYour donation will help us continue to provide academic support, career training programs as well as relocation solutions which are crucial components towards students' success. We measure our success through the number of successful integrations into local communities by providing legal aid services or helping them achieve their desired careers after graduation.\n\nThank youonce again for considering making an investment today with Uplift Youth Institute! Together we can empower disadvantaged international students and young immigrants around this world!\n\nSincerely,\n\nKanaov Marla (Councilor, District 2)\nCevin Peter (City Council President)\nCarleno Emo (City Auditor)\nDonald Trump (Tax Collector)\n\nP.S. Did you know your employer may offer corporate matching donations? You could potentially double your investment's impact on these individuals who require assistance within academics/career pursuits because they're struggling against odds stacked high due largely upon circumstances beyond control such poverty levels at home country etcetera while trying to achieve their dreams. Please check with your HR department to see if your donation is eligible for corporate matching, and make an even greater impact today! Thank you again for your continued support of Uplift Youth Institute.",
+        "inputList": [
+          {
+            "remark": "Event Information (name, how long ago, memorable moment, etc.)",
+            "value": ""
+          },
+          {
+            "remark": "Organization",
+            "value": "Uplift Youth Institute"
+          },
+          {
+            "remark": "Who are you writing to? Describe the relationship (e.g.,reunion attendee who has not donated to the class fund yet)",
+            "value": "Lapsed Donor"
+          },
+          {
+            "remark": "Funding Impact",
+            "value": ""
+          },
+          {
+            "remark": "Impact: What good will come from the event? This is usually the reason for the event. If the event was a fundraiser, what good will the funds help accomplish? For another type of event, describe the lasting benefits to you, your organization, or another group.",
+            "value": "Empowering disadvantaged international students and young immigrants in academics, career, and beyond"
+          },
+          {
+            "remark": "Next Steps. Describe what you want to happen next with this relationship, or actions you want them to take.",
+            "value": "Consider supporting our organization again"
+          },
+          {
+            "remark": "Signer. Who is sending the email?",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grants and Proposals",
+    "arrayData": [
+      {
+        "title": "Case Statement - Fundraising",
+        "remark": "Launch your next campaign or project with a clean and compelling case for support with fundraising goals and levels.",
+        "sampleOutPut": " Page 1: Introduction\n\n Breaking the Cycle of Poverty: How Education Empowers Underprivileged Children \n\nPage 2: The Problem\n\n Education Inequality in Rural Areas: A Vicious Cycle of Poverty \n\nPage 3-4: Our Approach\n\n Empowerment Through Education: Creating Sustainable Change Through Community - Based Schools \n\nPage 5-6: Impact and Success Stories\n\n Transforming Lives: How Empowerment Through Education is Making a Difference \n\nPage 7-8: Our Fundraising Goals\n\n Join Us in Breaking the Cycle of Poverty: Supporting Our Vision for Education Equality \n\nPage 9-10: How to Support Us\n\n Your Contribution Can Change Lives: Ways to Donate and Get Involved Today ",
+        "inputList": [
+          {
+            "remark": "Organization or Program Name",
+            "value": ""
+          },
+          {
+            "remark": "Mission",
+            "value": ""
+          },
+          {
+            "remark": "Describe your approach and/or key programs",
+            "value": ""
+          },
+          {
+            "remark": "The problem or need your organization addresses. (e.g., women are underrepresented in aerospace , or, In the US,80 % of adults and 76 % of kids don’t get enough exercise , etc.)",
+            "value": ""
+          },
+          {
+            "remark": "Founding & Community Details",
+            "value": ""
+          },
+          {
+            "remark": "Campaign Goals",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Grant Proposal - Introduction",
+        "remark": "Introduction to a grant proposal or Letter of Intent to a Foundation or Corporate funder.",
+        "sampleOutPut": "Community Arts Alliance is dedicated to promoting and supporting arts and culture in underserved communities, fostering creativity, inclusivity, and community engagement. We believe that access to the arts is a fundamental right and should not be limited by socioeconomic status or location. That is why we are seeking funding from the ABC Foundation for our Art Access for All program, which aims to provide accessible arts education and experiences to children and families in low-income neighborhoods. With the requested grant of $50,000, we will be able to expand the reach and impact of our program, providing high-quality art experiences to a larger number of individuals and communities in need. We are committed to ensuring that everyone has the opportunity to engage with the arts and look forward to partnering with ABC Foundation to make this vision a reality.\\n\\nThrough the Art Access for All program, we will provide art workshops, performances, and exhibitions, as well as partnerships with local schools and community organizations to ensure widespread participation. By hiring additional art instructors, purchasing art supplies and equipment, and coordinating community-wide events and exhibitions, we will be able to increase access to the arts for those who may face barriers in accessing such opportunities. We also plan to allocate a portion of the funds towards transportation assistance for participants who may face additional challenges in accessing art venues. With the support of ABC Foundation, we can continue to promote creativity, inclusivity, and community engagement through the arts.",
+        "inputList": [
+          {
+            "remark": "Requestor/Recipient Organization",
+            "value": ""
+          },
+          {
+            "remark": "Recipient's mission",
+            "value": ""
+          },
+          {
+            "remark": "Program being funded and what does it do?",
+            "value": ""
+          },
+          {
+            "remark": "Name of Funder",
+            "value": ""
+          },
+          {
+            "remark": "The program will use the funds to…",
+            "value": ""
+          },
+          {
+            "remark": "Amount of request (e.g., $50,000 or $10,000 per year for three years)",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Letter of Support",
+        "remark": "Show your proposed project will be supported with unique letters from your partners, community, and peers.",
+        "sampleOutPut": "[Letterhead of Community Health Alliance]\nLETTER OF SUPPORT SAMPLE\nDATE\nAttn: Name and Title of Grant Officer\nGrant Name: Healthy Youth Wellness Program Grant\n[Address & Contact Info]\n\nRe: Grant Proposal - Healthy Youth Wellness Program Grant\n\nDear [Funder Point of Contact],\n\nThe Community Health Alliance is pleased to offer our strongest support for the Healthy Youth Initiative's grant proposal - the Healthy Youth Wellness Program. As a long-standing partner of the Healthy Youth Initiative, we have witnessed firsthand their commitment to promoting health equity and improving healthcare access for underserved youth in our community.\n\nWe strongly believe that this proposed project will be an exceptional program that will provide comprehensive health education and resources to underserved youth in our community. The need for such programs is significant, as recent statistics show that 30% of adolescents in our region are overweight or obese, and there is a lack of comprehensive health education programs available to address this issue. By targeting this population, the Healthy Youth Initiative aims to improve their physical and mental well-being, reduce the prevalence of chronic diseases, and promote healthier lifestyles among young people.\n\nCommunity Health Alliance has been working with the Healthy Youth Initiative for five years, guiding the development and implementation of health education curricula, training their staff on best practices, and connecting them with healthcare providers for additional support. We fully commit to partnering with them on this endeavor by providing our expertise in health education, collaborating on program development, offering access to our network of healthcare professionals, and any other resources needed.\n\nThe proposed Healthy Youth Wellness Program aligns perfectly with Community Health Alliance's mission of promoting health equity and improving healthcare access for all community members. We urge you to consider funding this important project.\n\nSincerely,\n[Department Head/Representative/Etc.]",
+        "inputList": [
+          {
+            "remark": "Applicant Organization",
+            "value": ""
+          },
+          {
+            "remark": "Describe the proposed project",
+            "value": ""
+          },
+          {
+            "remark": "Supporting Organization (name, mission, and details of the support)",
+            "value": ""
+          },
+          {
+            "remark": "Length of Collaboration",
+            "value": ""
+          },
+          {
+            "remark": "Funder",
+            "value": ""
+          },
+          {
+            "remark": "Name of the funding request or program title",
+            "value": ""
+          },
+          {
+            "remark": "About the population it will serve and/or statistics to highlight the need",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Organizational Background",
+        "remark": "Provide background information about the organization, its mission, approach to problem-solving, and funding history.",
+        "sampleOutput": "The Global Environmental Conservation Society is a non-profit organization founded in 2005 by a group of passionate environmentalists who recognized the urgent need for collective action to address the escalating environmental crisis. Our mission is to protect and preserve the world's natural resources and promote sustainable practices for the benefit of current and future generations. We take a multi-faceted approach to environmental conservation, combining scientific research, community engagement, and advocacy efforts. Our key programs include habitat restoration, wildlife conservation, sustainable agriculture initiatives, and educational outreach to raise awareness about environmental issues. We recognize the pressing global environmental challenges such as habitat loss, biodiversity decline, climate change, and unsustainable resource consumption. Our organization is deeply rooted in local communities, working closely with stakeholders, indigenous groups, and government agencies to ensure our efforts are aligned with community needs and cultural sensitivities.\n\nOver the years, we have achieved several key milestones that demonstrate our commitment to using funds effectively. We have a proven track record of successful projects, transparent financial management, and partnerships with reputable institutions. Our organization is dedicated to making a positive impact through our programs and initiatives. We have a long-term vision for promoting a more sustainable and harmonious relationship between humans and nature and believe that every dollar invested in our organization contributes to tangible and sustainable outcomes for the environment and the communities we serve.\n\nOur budget is primarily funded through private donations, grants, and corporate sponsorships. We are located in multiple countries across the globe and have a diverse team of staff and volunteers who are passionate about environmental conservation. Our organization has received recognition and awards for our work, including the United Nations' Equator Prize in 2014. We collaborate with other organizations and institutions to leverage our impact, share knowledge and resources, and achieve greater collective goals.\n\nWe are dedicated to transparency, accountability, and integrity in all aspects of our work. Our financial reports are audited annually by an independent auditor, and we provide regular updates to our supporters on our programs' progress. We believe that every individual can make a positive difference through their actions, and we strive to inspire others to join us in protecting the environment for future generations.",
+        "inputList": [
+          {
+            "remark": "Organization",
+            "value": ""
+          },
+          {
+            "remark": "Mission",
+            "value": ""
+          },
+          {
+            "remark": "Key Programs",
+            "value": ""
+          },
+          {
+            "remark": "Need or Problem",
+            "value": ""
+          },
+          {
+            "remark": "Funding",
+            "value": ""
+          },
+          {
+            "remark": "History",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Personal Email and Outreach",
+    "arrayData": [
+      {
+        "title": "Event Follow-Up",
+        "remark": "After an event there are a lot of personal notes and next step messages to send out. Plug in the event information and change out the Next steps to quickly get through your to-do list.",
+        "sampleOutPut": "Dear [Name],\n\nI wanted to take a moment to thank you for attending our Annual Charity Auction on May 15, 2023. Your presence made a significant impact on our event, and we are incredibly grateful for your support.\n\nAs you may know, the auction served as a platform to raise awareness about the global water crisis and the transformative impact of clean water access. Thanks to donors like you, we raised funds that will directly contribute to saving lives and improving the well-being of individuals and communities. By providing sustainable water solutions, we aim to break the cycle of poverty and empower communities to thrive.\n\nAdditionally, I was thrilled to hear that you expressed interest in becoming a monthly donor. Your ongoing commitment is incredibly valuable to us, and it will enable us to make an even greater impact in the lives of those in need. I invite you to visit our website [insert link] where you can easily set up a monthly donation and join our community of changemakers.\n\nLastly, please feel free to share our mission with your friends and family. Their involvement can amplify our impact, and we would be honored to have them join us in this important work.\n\nThank you again for your support. Together, we can transform lives through access to clean water .\n\nBest regards,\n\nJohn Smith\n\nDonor Relations Manager, ABC Foundation",
+        "inputList": [
+          {
+            "remark": "Event Information (name, how long ago, memorable moment, etc.)",
+            "value": ""
+          },
+          {
+            "remark": "Organization",
+            "value": ""
+          },
+          {
+            "remark": "Who are you writing to? Describe the relationship (e.g., reunion attendee who has not donated to the class fund yet)",
+            "value": ""
+          },
+          {
+            "remark": "Funding Impact",
+            "value": ""
+          },
+          {
+            "remark": "Impact: What good will come from the event? This is usually the reason for the event. If the event was a fundraiser, what good will the funds help accomplish? For another type of event, describe the lasting benefits to you, your organization, or another group.",
+            "value": ""
+          },
+          {
+            "remark": "Next Steps. Describe what you want to happen next with this relationship, or actions you want them to take.",
+            "value": ""
+          },
+          {
+            "remark": "Signer. Who is sending the email?",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Invite supporter to meet regarding",
+        "remark": "Write an email that shows you value past support and gets them excited to connect with you.",
+        "sampleOutPut": "Dear [Supporters Name],\n\nI hope this email finds you well. I wanted to take a moment to express my sincere appreciation for your invaluable support and dedication to our organizations mission. Your past contributions and active involvement in our fundraising events have played a significant role in the success of our Youth Mentorship Program. Your generosity has allowed us to provide mentorship opportunities to underserved youth and help them navigate their educational and personal journeys with confidence.\n\nNow, as we plan for the expansion of our program, I would greatly value your input and expertise. Your commitment to our cause and your unique perspective would be incredibly valuable as we strive to enhance and improve the program to better serve the needs of the youth in our community. Your firsthand experience and insights can help shape the future direction and impact of our mentorship initiatives.\n\nI would like to invite you to a meeting where we can discuss the programs growth and your thoughts on areas we can further develop. I believe your expertise and passion can contribute to the success of our expansion plans. Together, we can make a lasting difference in the lives of even more young individuals who are in need of guidance and support.\n\nPlease let me know if there is a time that works best for you or feel free to book a time directly in my calendar using the link below:\n\n[INSERT CALENDAR LINK]\n\nI look forward to hearing from you and working together to continue making a positive impact in our community.\n\nBest,\n[Your Name]\nProgram Manager for the Youth Mentorship Program at XYZ Foundation.",
+        "inputList": [
+          {
+            "remark": "Organization",
+            "value": ""
+          },
+          {
+            "remark": "What would you like to get their input on?",
+            "value": ""
+          },
+          {
+            "remark": "Who are you to this person? (e.g., The new Director of Development for YouthWorks. I have met the recipient at a few events but we have not worked together.)",
+            "value": ""
+          },
+          {
+            "remark": "Describe their past support",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Partnership / Collaboration Outreach",
+        "remark": "Approach a complementary organization about collaborating",
+        "sampleOutPut": "Subject Line: Exploring a Potential Partnership\n\nDear [Recipients Name],\n\nI hope this email finds you well. I have been following the inspiring work of XYZ Conservation Society and would like to take this opportunity to commend your organization for its efforts in protecting and preserving natural habitats.\n\nAt ABC Nonprofit Organization, we share similar values with your organization. Our mission is to promote environmental conservation and sustainable practices, and we organize community clean-up events and provide educational workshops on environmental awareness. We believe that by working together, we can create a more significant impact on environmental conservation in our community.\n\nWe are excited about the possibility of partnering with XYZ Conservation Society. Our envisioned joint initiatives include organizing large-scale conservation events, implementing sustainable practices in local businesses, and conducting educational programs on wildlife conservation and habitat restoration.\n\nWe would like to request a meeting with you to discuss potential collaboration opportunities further. We are open to exploring various forms of partnership, including joint projects, shared resources, and cross-promotion. Our goal is to combine our strengths and expertise to maximize our impact on environmental conservation efforts.\n\nThank you for considering this proposal. We look forward to discussing this further with you.\n\nBest regards,\n\nSarah Johnson\nExecutive Director\nABC Nonprofit Organization",
+        "inputList": [
+          {
+            "remark": "Person Sending Letter (name & title)",
+            "value": ""
+          },
+          {
+            "remark": "Sending Organization",
+            "value": ""
+          },
+          {
+            "remark": "Senders Mission",
+            "value": ""
+          },
+          {
+            "remark": "Senders Relevant Program / Activities",
+            "value": ""
+          },
+          {
+            "remark": "Recipient (organization and person)",
+            "value": ""
+          },
+          {
+            "remark": "Recipients Mission & Relevant Program/Activities",
+            "value": ""
+          },
+          {
+            "remark": "Potential collaboration",
+            "value": ""
+          },
+          {
+            "remark": "What do you want to happen next?",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Subject Line for 1:1 Email",
+        "remark": "Your email subject line is one of the only tools you have to get recipients to read your message. Draft possible subject lines that appeal to you readers curiosity and self interest and pique their interest for what comes next.",
+        "sampleOutPut": "Fred, Join us for an Exclusive Networking Event that Will Boost Your Business!",
+        "inputList": [
+          {
+            "remark": "Purpose of the email",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Social Media",
+    "arrayData": [
+      {
+        "title": "Photo Captions",
+        "remark": "Brainstorm sharable photo captions for your next publication",
+        "sampleOutPut": "When we work together, we can achieve anything! Celebrating our teams success and the power of collaboration. It takes a team to accomplish great things! Cheers to everyone who contributed to this amazing project.",
+        "inputList": [
+          {
+            "remark": "Caption a photo about",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Social Media Tactics",
+        "remark": "Jumpstart your social media with ideas unique to you.",
+        "sampleOutPut": "Shareable quote: You are not alone. Seek support and find hope in your journey to better mental health. Example: Create a branded template using Canva with this quote and incorporate it into all social media posts related to mental health awareness and support for individuals struggling with mental health challenges. Use consistent branding elements such as colors, font, and logo to establish credibility as a content producer. Add relevant hashtags like #mentalhealthawareness #bethechange #endthestigma to increase visibility on social media platforms.",
+        "inputList": [
+          {
+            "remark": "Describe your organization or project. (e.g., homeless shelter)",
+            "value": ""
+          },
+          {
+            "remark": "What is the goal? (e.g., to find new volunteers)",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thank You and Stewardship",
+    "arrayData": [
+      {
+        "title": "Thank You - Impact Focus",
+        "remark": "Show the donor how their gift makes an impact.",
+        "sampleOutPut": "Dear [Donor Name],\n\nOn behalf of everyone at Uplift Youth Institute, I would like to extend my deepest gratitude for your generous gift of $25,000 to support our programs and activities. We are humbled by your trust in our organization and your commitment to our mission of empowering disadvantaged international students and young immigrants.\n\nYour contribution will have a significant impact on the lives of those we serve, allowing us to continue providing academic support, career training, relocation solutions, legal and mental health support. With your help, we can continue making a difference in the lives of these vulnerable youth who often face insurmountable challenges in their pursuit of education and careers.\n\nThanks to your generosity, we can offer more resources that will enable these young people to gain the skills they need to succeed academically and professionally. Your gift will help us provide mentorship programs that match students with mentors who can guide them through the complexities of college applications or job searches. It will also allow us to expand our relocation services so that young immigrants can integrate successfully into their new communities.\n\nYour kindness and compassion have given hope and inspiration to countless individuals whose futures were once uncertain. You have helped to create opportunities where there was once seemingly no way out, opening doors for these students that may have been previously closed to them.\n\nWe are truly grateful for your support and the trust you have shown in us. You are not just a donor, but a partner in our mission, and we value your collaboration and encouragement as we work towards achieving our goals.\n\nOnce again, thank you for your generous donation to Uplift Youth Institute. We look forward to updating you on the impact of your gift, and hope to continue building a lasting partnership with you in the future.\n\nWith deepest appreciation,\n\n[Your Name]",
+        "inputList": [
+          {
+            "remark": "Organization/Program Name",
+            "value": ""
+          },
+          {
+            "remark": "Organization/Program Information",
+            "value": ""
+          },
+          {
+            "remark": "Impact: How does the organization use funds like these to improve lives or fulfill its mission?",
+            "value": ""
+          },
+          {
+            "remark": "Gift Information (for example, $100 to the Annual Fund)",
+            "value": ""
+          },
+          {
+            "remark": "Donor Name",
+            "value": ""
+          },
+          {
+            "remark": "Your Name",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Thank You - Story Driven",
+        "remark": "Draft a letter to donors that describes the impact of their gift through a specific success story.",
+        "sampleOutPut": "Dear Friend,\n\nAt Uplift Youth Institute, we believe that every young person deserves the opportunity to pursue their dreams, regardless of their background or circumstances. It is this belief that drives our mission to empower disadvantaged international students and young immigrants in academics, career and beyond.\n\nThanks to your generous contributions, we have been able to make a real difference in the lives of countless young people like Tina.\n\nTina was an international student from a disadvantaged background, with big dreams of going to college and pursuing a successful career. But without the resources and support she needed, those dreams seemed out of reach.\n\nThats where Uplift Youth Institute came in. Through our academic support, career training, and relocation solutions, we were able to provide Tina with the tools she needed to achieve her goals. With our help, she was able to complete her degree and pursue her dream career.\n\nBut Tinas story is just one example of the impact that your support has made possible. Your contributions have enabled us to provide vital resources and support to countless young people who are struggling to achieve their dreams.\n\nWhether its through our academic support program, our career training initiatives, or our relocation solutions, your support has made it possible for us to empower young people like Tina to overcome the barriers they face and pursue their goals with confidence.\n\nWe are so grateful for your commitment to our mission and for your generous contributions to our programs and activities. Without your support, we would not be able to make the difference that we do in the lives of so many young people.\n\nSo thank you, from the bottom of our hearts, for your unwavering dedication to our cause. Your support truly makes all the difference.\n\nWith gratitude,\n\n[Your Name]\n\nP.S. Weve included a tax receipt with your donations for 2017. Please let us know if you have any questions or need additional documentation.",
+        "inputList": [
+          {
+            "remark": "Organization",
+            "value": ""
+          },
+          {
+            "remark": "Mission (If your mission is vague, try including a general description of what your organization does and why.)",
+            "value": ""
+          },
+          {
+            "remark": "Impact: Describe your successes. Facts and stats are useful here.",
+            "value": ""
+          },
+          {
+            "remark": "Success Story: Give the key details and plot points to include in a specific story to demonstrate impact.",
+            "value": ""
+          },
+          {
+            "remark": "Target Program",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "Thank You Letter - Simple",
+        "remark": "Thank a donor for their recent support.",
+        "sampleOutPut": "Dear [Donors Name],\n\nI am writing to express my deepest gratitude for your generous contribution towards the Uplift Youth Institute. Your support has made a tremendous impact on the lives of disadvantaged international students and young immigrants, and we cannot thank you enough for your unwavering commitment to our cause.\n\nThe Kanaov Marla (Councilor, District 2), Cevin Peter (City Council President), Carleno Emo (City Auditor), Donald Trump (Tax Collector) who have pledged their support to our organization through your donation have enabled us to provide a variety of programs and activities that are tailored to the unique needs of our beneficiaries. Through academic support, career training, relocation solutions, legal and mental health support, and more, we have been able to empower these individuals with the tools they need to succeed in their various endeavors.\n\nYour contribution has not only improved the lives of these young people but has also given them hope for a brighter future. Your generosity has enabled us to create opportunities that were once out of reach for them. We have seen firsthand how much your donation has impacted their lives and how grateful they are for your kindness.\n\nIt is because of donors like you that we can continue our mission of empowering disadvantaged international students and young immigrants. Your support has allowed us to expand our reach and help more individuals who are in need of our services. We cannot express enough how much your contribution means to us and the beneficiaries we serve.\n\nYour donation is a testament to your unwavering commitment to making a positive impact on the lives of others. Your generosity has inspired us to work even harder towards achieving our goals, and we are confident that with your continued support, we will be able to create an even greater impact in the future.\n\nOnce again, from the bottom of our hearts, thank you for your kindness and generosity. We are honored to have you as a partner in our mission to uplift and empower disadvantaged international students and young immigrants.\n\nWith gratitude,\n\n[Uplift Youth Institute XYZ]",
+        "inputList": [
+          {
+            "remark": "Organization Name",
+            "value": ""
+          },
+          {
+            "remark": "Fund or program the gift supports. Provide a description for better result",
+            "value": ""
+          },
+          {
+            "remark": "What are you thanking them for? ($100 gift, new computers, naming gift, renewal gift, etc.)",
+            "value": ""
+          },
+          {
+            "remark": "Letter Signers Role (e.g., client, board member, graduate, etc.)",
+            "value": ""
+          },
+          {
+            "remark": "Writing Tone: (e.g., authentic, conversational, professional, caring, humble, boastful, creative, apologetic, authoritative/expert, Presidential, optimistic, etc.)",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
+]
